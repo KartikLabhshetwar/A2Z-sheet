@@ -1,4 +1,7 @@
-## learned difference between input/ outputs.
+# learned difference between input/ outputs.
+## written this here because i didn't knew it, and I have revised all the java fundamentals from w3 schools.
+
+resource: [link](https://www.w3schools.com/java/java_intro.asp)
 
 the main things was buffered reader and scanner object.\
 use bufferreader when you are solving problem as it will reduce the time complexity.
