@@ -8,4 +8,6 @@ adding the thinking process and the solution of the striver's sheet here.
 - Java Collection framework (13 january). link: [notes](https://www.youtube.com/watch?v=VphowcSkBX4&t=21s)\
 resources2: [link](https://www.youtube.com/watch?v=rzA7UJ-hQn4)
 - Basic Maths problem started.
+- Basic Maths section done (19/1/2025).
+- Basic Recursion Section started.
 
