@@ -14,9 +14,10 @@ public class reverseInteger {
     }
 
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        try(Scanner sc = new Scanner(System.in)){
         int n = sc.nextInt();
         reverse(n);
         System.out.println("Output: "+ reverse(n));
+    }
     }
 }
