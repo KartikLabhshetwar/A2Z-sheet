@@ -10,4 +10,7 @@ resources2: [link](https://www.youtube.com/watch?v=rzA7UJ-hQn4)
 - Basic Maths problem started.
 - Basic Maths section done (19/1/2025).
 - Basic Recursion Section started.
+- Basic Recursion done.
+- Basic Hashing done.
+- Step 1 of the sheet is complete. (22/1/2025).
 
