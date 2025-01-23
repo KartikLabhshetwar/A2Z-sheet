@@ -13,4 +13,6 @@ resources2: [link](https://www.youtube.com/watch?v=rzA7UJ-hQn4)
 - Basic Recursion done.
 - Basic Hashing done.
 - Step 1 of the sheet is complete. (22/1/2025).
+- Step 2 is started.
+- Done with the sorting-1 part.
 
