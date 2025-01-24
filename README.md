@@ -15,4 +15,5 @@ resources2: [link](https://www.youtube.com/watch?v=rzA7UJ-hQn4)
 - Step 1 of the sheet is complete. (22/1/2025).
 - Step 2 is started.
 - Done with the sorting-1 part.
+- Done with sorting-2 and finished the step 2. (24/1/25).
 
