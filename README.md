@@ -18,4 +18,4 @@ resources2: [link](https://www.youtube.com/watch?v=rzA7UJ-hQn4)
 - Done with sorting-2 and finished the step 2. (24/1/25).
 - In the array's section easy level is done (30/1/25).
 - Done with array's both the steps (16/2/25).
-
+- start with DSA Kartik. 
