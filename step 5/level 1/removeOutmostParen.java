@@ -1,5 +1,3 @@
-
-
 public class removeOutmostParen {
 
     static String removeParanthesis(String S){
