@@ -21,3 +21,4 @@ resources2: [link](https://www.youtube.com/watch?v=rzA7UJ-hQn4)
 - Revised the array part tomorrow starting with binary search part.
 - you are going with a good speed just one question a day will keep your problem solving ability better.
 - don't break the chain and never miss twice.
+- learned about the linked list in java now tomorrow i will solve problems based on it.
